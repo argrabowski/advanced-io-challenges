@@ -1,0 +1,12 @@
+package.xdc
+package.xs
+package/xconfig_rtos.sch
+package/.vers_g180
+package/.vers_r170
+package/.vers_b160
+package/.xdc-B06
+package/xconfig_rtos.java
+package/xconfig_rtos.class
+package/package_xconfig_rtos.c
+package/package.defs.h
+package/xconfig_rtos.ccs
